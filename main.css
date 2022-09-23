@@ -48,7 +48,7 @@ html {
   }
 
   .social-icons a:hover {
-    background: linear-gradient(var(--deg), #000000, #3a0f7e);        }
+    background: linear-gradient(var(--deg), #000000, rgb(68, 56, 87));        }
 
   .social-icons a::before {
     content: "";
