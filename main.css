@@ -61,7 +61,7 @@ html {
     margin-bottom: 0rem;
     padding-left: 0;
     position:fixed;
-    top: 80%;
+    top: calc(80vh - 2.5rem);
     right: calc(50vw - 12rem);
   }
 
