@@ -60,11 +60,14 @@ html {
     margin-top: 0rem;
     margin-bottom: 0rem;
     padding-left: 0;
+    position:fixed;
+    top: 80%;
+    right: calc(50vw - 12rem);
   }
 
   .social-icons>li {
-    margin-left: 0.25rem;
-    margin-right: 0.25rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
   }
 
   .social-icons a {
@@ -78,7 +81,7 @@ html {
     transition: all .0s ease;
     width: 5rem;
     height: 5rem;
-    border-radius: .8rem;
+    border-radius: 1rem;
   }
 
   .social-icons a:hover {
